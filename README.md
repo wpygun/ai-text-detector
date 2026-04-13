@@ -28,4 +28,4 @@ With the rapid rise of AI-generated content online, it's becoming increasingly d
 ---
 
 This project is developed as a Bachelor's thesis at Vistula University, Warsaw, under the working title:
-*"Design and Implementation of a Browser Extension for Real-Time AI-Generated Text Detection on Social Media"*
+*"A Browser Extension for Real-Time AI-Generated Content Detection on Social Media Platforms for Google Chrome"*
